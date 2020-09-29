@@ -5,7 +5,7 @@ The inspiration for this project came from my lifelong interest in Gastropods. F
 In the first notebook (Haliotis Rubra_Overview.ipynb) I perform an exploration of the dataset, by looking at different distributions while investigating the relationship between key variables by means of variance models and interaction plots. The second notebook (Haliotis Rubra_ResearchQuestions.ipynb) contains a detailed exploration of multiple research questions through linear regression models, anovas, multinomial regression models and correlation tests.
 
 
-### Description of variables in context:
+## Description of variables in context:
 
 **Sex:** Male (M), Female (F), and Infant (I)
 
