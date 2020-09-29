@@ -3,7 +3,7 @@
 The inspiration for this project came from my lifelong interest in Gastropods. For the purpose of this project I am investigating data of Blacklip Abalone (subspecies: Haliotis rubra). The reason why I have chosen this dataset rests largely in the fact that Blacklip Abalone are a species victim to artificial farming and environmental concerns such as overfishing and environment deterioration. By investigating a sample of an already diminishing wild population I hope to gain some insights before this subspecies goes extinct in the near future.
 
 
-## Description of variables in context:**
+## Description of variables in context:
 
 **Sex:** Male (M), Female (F), and Infant (I)
 
